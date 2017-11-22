@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 from nltk.corpus import words, brown
 import re
 
