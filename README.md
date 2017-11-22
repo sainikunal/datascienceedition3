@@ -7,4 +7,4 @@ The approach is very simple if you figure out the data carefully. If you take a 
 4.	There were two three cases which I handled manually by returning specific values.
 
 I've used **nltk** but there is no use of it if you define words like _'will'_, _'service'_ manually.
-Also I haven't added the _train_test_split_ to **train** and **test** the accuracy.
+Also I haven't added the _train_test_split_ to split the **train** data to check the accuracy, because it was the final code I submitted.
